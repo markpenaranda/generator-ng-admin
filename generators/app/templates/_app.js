@@ -5,11 +5,22 @@ var <%= name %> = angular.module('<%= name %>', ['ng-admin']);
 
     var admin = nga.application('<%= name %>');
     
-    // entities
-  
+    /*=============================================
+    =            Declare Entities           =
+    =============================================*/
+    
+    
+    
+    // End Entities
+    
 
-    // configure entities 
-
+    /*==========================================
+    =            Configure Entities            =
+    ==========================================*/
+    
+    
+    
+    // End of Configure Entities 
 
 
     nga.configure(admin);
