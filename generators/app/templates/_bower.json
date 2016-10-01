@@ -1,0 +1,20 @@
+{
+  "name": "<%= name %>",
+  "authors": [
+    "MJP <markangelpenaranda@gmail.com>"
+  ],
+  "description": "DFS Agent System",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ng-admin": "^0.9.1"
+  }
+}
